@@ -4,4 +4,4 @@
 ## Linguagem de Programação Utilizada   ![PYTOHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Obejtivo
-Criar um  sistema Bancario, onde é possivel **depositar e Sacar**
+Criar um  sistema Bancario, emplementando **funções**
